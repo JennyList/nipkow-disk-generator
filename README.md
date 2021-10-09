@@ -1,5 +1,5 @@
 # nipkow-disk-generator
-tl;dr: Some very old code I wrote that generates Nipkow disks as PDFs
+tl;dr: Some very old code I wrote that generates Nipkow disks as PDFs. It won't work without equally ancient software to run on.
 
 Nearly 20 years ago I wanted to make a Baird mechanical TV system using Panasonic 2x CD-ROM drives that had DC motors. Thus I wrote this code to generate Nipkow disk templates. In the end I never got beyond making a Nipkow disk, and the rest is lost to time.
 
