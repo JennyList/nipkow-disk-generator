@@ -1,4 +1,4 @@
-# nipkow-disk-generator
+# Nipkow disk generator
 tl;dr: This started with some very old PHP code I wrote that generates Nipkow disks as PDFs. It won't work without equally ancient software to run on.Now in 2023 I've updated it by porting the basic idea to OpenSCAD.
 
 ## nipkow.php.zip
