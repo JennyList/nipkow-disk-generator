@@ -10,3 +10,7 @@ The PDF is a template frommthe PHP code for a standard CD-ROM. Print, stick, and
 Having said I'd never develop it any further, I've ported the basic idea to OpenSCAD. Plenty of comments in the file should help you make a disk to your liking.
 
 ![A Nipkow disk in OpenSCAD](./nipkow.png "A Nipkow disk in OpenSCAD")
+
+## Licence
+
+This library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
