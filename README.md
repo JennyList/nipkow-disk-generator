@@ -14,3 +14,5 @@ Having said I'd never develop it any further, I've ported the basic idea to Open
 ## Licence
 
 This library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
