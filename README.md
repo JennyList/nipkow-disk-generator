@@ -1,7 +1,12 @@
-# Nipkow disk generator
-tl;dr: This started with some very old PHP code I wrote that generates Nipkow disks as PDFs. It won't work without equally ancient software to run on.Now in 2023 I've updated it by porting the basic idea to OpenSCAD.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
+
+# Nipkow Disk and Mirror Drum generators
+OpenSCAD code to generate Nipkow disks and mirror drums for mechanical TV
 
 ## nipkow.php.zip
+tl;dr: This started with some very old PHP code I wrote that generates Nipkow disks as PDFs. It won't work without equally ancient software to run on.Now in 2023 I've updated it by porting the basic idea to OpenSCAD.
+
 Nearly 20 years ago I wanted to make a Baird mechanical TV system using Panasonic 2x CD-ROM drives that had DC motors. Thus I wrote this code to generate Nipkow disk templates. In the end I never got beyond making a Nipkow disk, and the rest is lost to time. It was written in PHP 4, using the now long ago deprecated PDF library that came with that version. Thus it won't work on any remotely recent PHP versions. It's legacy code presented here for interest only, should you wish to write your own Nipkow generator using its trigonometry. I will not develop it any further, it's an ancient project, you're on your own. Zipped so that the repository shows as having OpenSCAD rather than PHP.
 
 The PDF is a template from the PHP code for a standard CD-ROM. Print, stick, and drill.
@@ -11,8 +16,12 @@ Having said I'd never develop it any further, I've ported the basic idea to Open
 
 ![A Nipkow disk in OpenSCAD](./nipkow.png "A Nipkow disk in OpenSCAD")
 
+## mirror-drum.scad
+A 3D-printable mirror drum, with adjustable parameters for number of lines, mirror size, and angles. It prints a frame to which you will have to glue the mirrors.
+
+![A mirrir drum in OpenSCAD](./mirror-drum.png "A mirror drum in OpenSCAD")
+
 ## Licence
 
-This library is licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
+These libraries are licensed under the [Creative Commons Attribution Share Alike 4.0 International licence](license.md).
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B41FD5UE)
