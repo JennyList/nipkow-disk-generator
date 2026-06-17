@@ -10,7 +10,7 @@ Having said I'd never develop it any further, I've ported the basic idea to Open
 ![A Nipkow disk in OpenSCAD](./nipkow.png "A Nipkow disk in OpenSCAD")
 
 ## mirror-drum.scad
-A 3D-printable mirror drum, with adjustable parameters for number of lines, mirror size, and angles. It prints a frame to which you will have to glue the mirrors.
+A 3D-printable mirror drum, with adjustable parameters for number of lines, mirror size, and angles. **You will need to adjust those parameters for your own design, in particular the mirror tilt, the defaults are way too big as they were designed to show the mirros tilting in the model!** It prints a frame to which you will have to glue the mirrors.
 
 ![A mirrir drum in OpenSCAD](./mirror-drum.png "A mirror drum in OpenSCAD")
 
