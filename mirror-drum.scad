@@ -13,9 +13,9 @@ scanlines = 32;
 diameter = 200;
 //Drum height
 height = 50;
-// mirror tilt parameters
-tiltstart = -10;
-tiltrange = 20;
+// mirror tilt parameters. YOU WILL NEED TO ADJUST THESE, THE DEFAULTS ARE PICKED TO MAKE THE TILT OBVIOUS AND ARE FAR TOO BIG!
+tiltstart = -10; //Starts at -10 degrees
+tiltrange = 20; //Tilt range spans 20 degrees, to +10 degrees
 
 drumradius = diameter/2;
 degreesperdot = 360/scanlines;
