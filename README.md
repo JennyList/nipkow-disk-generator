@@ -5,7 +5,7 @@
 OpenSCAD code to generate Nipkow disks and mirror drums for mechanical TV
 
 ## nipkow.scad
-Having said I'd never develop it any further, I've ported the basic idea to OpenSCAD. Plenty of comments in the file should help you make a disk to your liking.
+A Nipkow disk that you can print yourself. Having said I'd never develop it any further, I've ported the basic idea outlined at the bottom of this page, from a 20 year old project to OpenSCAD. Plenty of comments in the file should help you make a disk to your liking.
 
 ![A Nipkow disk in OpenSCAD](./nipkow.png "A Nipkow disk in OpenSCAD")
 
